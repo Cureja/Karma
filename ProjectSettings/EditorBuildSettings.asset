@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameSpawn.unity
     guid: eb3edd747434e87459b7de324af8b22c
-  - enabled: 0
+  - enabled: 1
     path: Assets/StartScreen.unity
     guid: 69b9fe39d8ecc5440816f26baf6a1f62
   - enabled: 0

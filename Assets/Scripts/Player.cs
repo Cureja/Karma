@@ -124,7 +124,7 @@ public class Player : MonoBehaviour {
 			health--;
 
 			if (health <= 0) {
-                UnityEngine.SceneManagement.SceneManager.LoadScene(2);
+                UnityEngine.SceneManagement.SceneManager.LoadScene(1);
 			}
 		}
 	}
